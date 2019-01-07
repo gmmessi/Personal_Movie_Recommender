@@ -1,9 +1,9 @@
 # Personal_Movie_Recommender
 
-In this project I conduct movie recommendation among students:
-1. recommend the most popular movie to the specific student that he/she hasn't watched yet.
+In this project I conducted movie recommendation among students under the instruction of Professor Dennis Zhang:
+1. recommended the most popular movie to the specific student that he/she hasn't watched yet.
 
-2. recommend the favoriate movie of the specific student's movie soul mate(based on calculated jaccard similarity) that the specific person hasn't watched yet.
+2. recommended the favoriate movie of the specific student's movie soul mate(based on calculated jaccard similarity) that the specific person hasn't watched yet.
 
 
 ## Recommender System
